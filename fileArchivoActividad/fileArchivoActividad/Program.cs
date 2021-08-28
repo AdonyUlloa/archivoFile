@@ -37,9 +37,7 @@ namespace fileArchivoActividad
                     return true;
                 case "2":
                     return true;
-                case "3":
-                    deleteData();
-                    Console.ReadKey();
+                case "3":        
                     return true;
                 case "4":
                     Console.WriteLine("LISTADO DE ESTUDIATES");
@@ -107,7 +105,6 @@ namespace fileArchivoActividad
             }
             return true;
         }
-       
 
     }
 }
