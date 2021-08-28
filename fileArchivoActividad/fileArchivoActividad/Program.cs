@@ -40,7 +40,7 @@ namespace fileArchivoActividad
                 case "3":        
                     return true;
                 case "4":
-                    Console.WriteLine("LISTADO DE ESTUDIATES");
+                    Console.WriteLine("LISTADO DE PACIENTES");
                     foreach (KeyValuePair<object, object> data in readFile())
                     {
                         Console.WriteLine("{0}: {1}", data.Key, data.Value);
@@ -57,7 +57,7 @@ namespace fileArchivoActividad
 
         private static string getPath()
         {
-            string path = @"C:\Ejemplo\registro.txt";
+            string path = @"C:\Users\PC\Desktop\tareaProgramacionArchivo\registro.txt";
             return path;
         }
 
