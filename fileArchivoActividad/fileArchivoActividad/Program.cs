@@ -37,7 +37,9 @@ namespace fileArchivoActividad
                     return true;
                 case "2":
                     return true;
-                case "3":        
+                case "3":
+                    deleteData();
+                    Console.ReadKey();
                     return true;
                 case "4":
                     Console.WriteLine("LISTADO DE PACIENTES");
@@ -104,6 +106,40 @@ namespace fileArchivoActividad
                 return false;
             }
             return true;
+        }
+
+        private static void deleteData()
+        {
+            Console.Write("Escriba el nombre del paciente que desea eliminar: ");
+            var name = Console.ReadLine();
+
+            if (search(name))
+            {
+
+                Dictionary<object, object> temp = new Dictionary<object, object>();
+                temp = readFile();
+
+                temp.Remove(name);
+                Console.WriteLine("El registro se a eliminado!");
+                File.Delete(getPath());
+
+                using (StreamWriter sw = File.AppendText(getPath()))
+                {
+
+                    foreach (KeyValuePair<object, object> values in temp)
+                    {
+                        sw.WriteLine("{0}; {1}", values.Key, values.Value);
+                        // sw.Close();
+                    }
+                }
+
+            }
+            else
+            {
+                Console.WriteLine("El registro no se encontro!");
+            }
+
+
         }
 
     }
