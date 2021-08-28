@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\tareaProgramacionArchivo\fileArchivoActividad\fileArchivoActividad\bin\Debug\fileArchivoActividad.exe.config
+C:\Users\PC\Desktop\tareaProgramacionArchivo\fileArchivoActividad\fileArchivoActividad\bin\Debug\fileArchivoActividad.exe
+C:\Users\PC\Desktop\tareaProgramacionArchivo\fileArchivoActividad\fileArchivoActividad\bin\Debug\fileArchivoActividad.pdb
+C:\Users\PC\Desktop\tareaProgramacionArchivo\fileArchivoActividad\fileArchivoActividad\obj\Debug\fileArchivoActividad.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\tareaProgramacionArchivo\fileArchivoActividad\fileArchivoActividad\obj\Debug\fileArchivoActividad.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\tareaProgramacionArchivo\fileArchivoActividad\fileArchivoActividad\obj\Debug\fileArchivoActividad.exe
+C:\Users\PC\Desktop\tareaProgramacionArchivo\fileArchivoActividad\fileArchivoActividad\obj\Debug\fileArchivoActividad.pdb
