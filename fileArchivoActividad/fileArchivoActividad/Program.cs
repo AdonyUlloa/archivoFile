@@ -36,8 +36,10 @@ namespace fileArchivoActividad
                     registerPaciente();
                     return true;
                 case "2":
+                    updateData();
+                    Console.ReadKey();
                     return true;
-                case "3":        
+                case "3":
                     return true;
                 case "4":
                     Console.WriteLine("LISTADO DE PACIENTES");
@@ -57,7 +59,7 @@ namespace fileArchivoActividad
 
         private static string getPath()
         {
-            string path = @"C:\Users\PC\Desktop\tareaProgramacionArchivo\registro.txt";
+            string path = @"C:\Users\zelay\OneDrive\Escritorio\files actividad\archivoFile\registro.txt";
             return path;
         }
 
@@ -105,6 +107,19 @@ namespace fileArchivoActividad
             }
             return true;
         }
+        
+        private static void updateData()
+        {
+            Console.Write("Escriba el nombre del paciente a actualizar: ");
+            var nam = Console.ReadLine();
 
+            if (search(nam))
+            {
+                Console.WriteLine("El registro existe!");
+                Console.Write("ingrse la nueva edad del paciente: ");
+                var newAge = Console.ReadLine();
+
+            }
+        }
     }
 }

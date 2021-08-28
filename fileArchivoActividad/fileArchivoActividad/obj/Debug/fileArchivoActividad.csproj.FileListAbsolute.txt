@@ -5,3 +5,10 @@ C:\Users\PC\Desktop\tareaProgramacionArchivo\fileArchivoActividad\fileArchivoAct
 C:\Users\PC\Desktop\tareaProgramacionArchivo\fileArchivoActividad\fileArchivoActividad\obj\Debug\fileArchivoActividad.csproj.CoreCompileInputs.cache
 C:\Users\PC\Desktop\tareaProgramacionArchivo\fileArchivoActividad\fileArchivoActividad\obj\Debug\fileArchivoActividad.exe
 C:\Users\PC\Desktop\tareaProgramacionArchivo\fileArchivoActividad\fileArchivoActividad\obj\Debug\fileArchivoActividad.pdb
+C:\Users\zelay\OneDrive\Escritorio\files actividad\archivoFile\fileArchivoActividad\fileArchivoActividad\bin\Debug\fileArchivoActividad.exe.config
+C:\Users\zelay\OneDrive\Escritorio\files actividad\archivoFile\fileArchivoActividad\fileArchivoActividad\bin\Debug\fileArchivoActividad.exe
+C:\Users\zelay\OneDrive\Escritorio\files actividad\archivoFile\fileArchivoActividad\fileArchivoActividad\bin\Debug\fileArchivoActividad.pdb
+C:\Users\zelay\OneDrive\Escritorio\files actividad\archivoFile\fileArchivoActividad\fileArchivoActividad\obj\Debug\fileArchivoActividad.csproj.AssemblyReference.cache
+C:\Users\zelay\OneDrive\Escritorio\files actividad\archivoFile\fileArchivoActividad\fileArchivoActividad\obj\Debug\fileArchivoActividad.csproj.CoreCompileInputs.cache
+C:\Users\zelay\OneDrive\Escritorio\files actividad\archivoFile\fileArchivoActividad\fileArchivoActividad\obj\Debug\fileArchivoActividad.exe
+C:\Users\zelay\OneDrive\Escritorio\files actividad\archivoFile\fileArchivoActividad\fileArchivoActividad\obj\Debug\fileArchivoActividad.pdb
